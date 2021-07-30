@@ -1,4 +1,4 @@
-# SistCadastroWinFormsSqlServer
+# Sistema de Cadastro - Windows Forms + Sql Server
 
 CRUD completo utilizando Windows Forms e SQL Server com prodecures.
 
